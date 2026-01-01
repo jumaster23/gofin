@@ -1,0 +1,16 @@
+# Binarios
+gofin
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Datos financieros (¡CRÍTICO!)
+*.xlsx
+*.xls
+*.csv
+
+# Dependencias y archivos del sistema
+vendor/
+.DS_Store
